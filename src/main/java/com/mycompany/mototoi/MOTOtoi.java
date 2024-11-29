@@ -6,7 +6,7 @@ package com.mycompany.mototoi;
 
 /**
  *
- * @author Angela
+ * @author Johndel
  */
 public class MOTOtoi {
 
